@@ -1,0 +1,5 @@
+member_id,first_name,last_name,date_of_birth,gender
+M001,Alice,Johnson,1985-06-15,F
+M002,Bob,Smith,1990-03-22,M
+M003,Carol,Williams,1978-11-08,F
+M004,INVALID,,2099-01-01,X

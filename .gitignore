@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+build/
+dist/
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Node / Frontend
+node_modules/
+.next/
+out/
+*.tsbuildinfo
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment and Secrets
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+
+# Runtime / Local Storage & Uploads
+data/
+backend/data/
+cinqflow/data/
+cinqflow/backend/data/
+sample_files/
+cinqflow/sample_files/
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
