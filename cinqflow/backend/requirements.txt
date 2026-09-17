@@ -11,7 +11,7 @@ alembic>=1.13.0
 psycopg[binary]>=3.3.0      # psycopg3 — has Python 3.14 wheels
 
 # Pydantic (use system-installed version)
-pydantic>=2.9.0
+pydantic[email]>=2.9.0
 pydantic-settings>=2.5.0
 
 # Auth
